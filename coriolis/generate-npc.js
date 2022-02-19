@@ -1,4 +1,4 @@
-var firstNames = [
+const firstNames = [
   'Awadah',
   'Youssouf',
   'Arib',
@@ -1060,7 +1060,7 @@ var firstNames = [
   'Zaleekhah',
   'Zumarrad',
 ];
-var lastNames = [
+const lastNames = [
   'Soleymani',
   'Motiwala',
   'Subedar',
@@ -1153,7 +1153,7 @@ var lastNames = [
   'Wasem',
   'Zogby',
 ];
-var professions = [
+const professions = [
   'Guard',
   'Baker',
   'Pilot',
@@ -1205,7 +1205,7 @@ var professions = [
   'Cleric',
   'Dealer',
 ];
-var characteristics = [
+const characteristics = [
   'Fat',
   'Skinny',
   'Good-looking',
@@ -1243,7 +1243,7 @@ var characteristics = [
   'Slow',
   'Suspicious',
 ];
-var activities = [
+const activities = [
   'Searching',
   'Making friends',
   'Rambling tediously',
